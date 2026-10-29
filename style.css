@@ -9,3 +9,33 @@
 
    We'll write styles here starting Monday.
    ========================================================== */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif, serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #8dc8f8;
+    color: #363232;
+    text-align: center;
+}
+h1 {
+    font-size: 2.5em;
+    margin: 20px 0;
+    color: #fefffe;
+}
+a:link {
+    color: #e7eb08;
+    text-decoration: none;
+}
+a:visited {
+    color: #e701c8;
+}
+
+a:hover {
+    color: #fefffe;
+    background-color:aquamarine
+}
+a:active {
+    color: #1b38b6;
+    background-color: rgb(180, 76, 111);
+}
